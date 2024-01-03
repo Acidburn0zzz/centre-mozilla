@@ -9,7 +9,7 @@
 ,   "devDependencies": {
         "mocha":            "1.7.4"
     ,   "expect.js":        "0.2.0"
-    ,   "underscore":       "1.4.3"
+    ,   "underscore":       "1.12.1"
     ,   "jsondiffpatch":    "0.0.5"
     ,   "benchmark":        "*"
     ,   "microtime":        "*"
